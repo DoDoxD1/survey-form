@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+background
+{
+    background-size: cover;
+    text-align: left;
+    
+
+}
+.h1{
+    margin-top: 250px;
+    text-align:left;
+    color: rgb(0, 0, 0);
+    font-size: 350%;
+    margin-left: 10%;
+    
+}
+p{
+    text-align-last: left;
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    margin-left: 10%;
+    max-width: 500px;
+    line-height: 40px;
+}
+button{
+    color:white;
+    background-color: #4043e4;
+    text-align:left;
+    background-size: 150%;
+    padding: 15px;
+    margin-left: 10%;
+    border-radius: 5px;
+    font-size: 18px;
+}
+button:hover{
+    color: #4043e4;
+    background-color: white;
+    border: 2px solid #4043e4;
+    transition: 0.5s;
+}
+    
+    
+
+
